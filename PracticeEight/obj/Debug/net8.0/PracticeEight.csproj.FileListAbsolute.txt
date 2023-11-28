@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeEight\bin\Debug\net8.0\PracticeEight.exe
+C:\Users\franc\Development\PracticeSol\PracticeEight\bin\Debug\net8.0\PracticeEight.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeEight\bin\Debug\net8.0\PracticeEight.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeEight\bin\Debug\net8.0\PracticeEight.dll
+C:\Users\franc\Development\PracticeSol\PracticeEight\bin\Debug\net8.0\PracticeEight.pdb
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.dll
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\refint\PracticeEight.dll
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.pdb
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\PracticeEight.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeEight\obj\Debug\net8.0\ref\PracticeEight.dll

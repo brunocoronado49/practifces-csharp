@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeSeven\bin\Debug\net8.0\PracticeSeven.exe
+C:\Users\franc\Development\PracticeSol\PracticeSeven\bin\Debug\net8.0\PracticeSeven.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeSeven\bin\Debug\net8.0\PracticeSeven.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeSeven\bin\Debug\net8.0\PracticeSeven.dll
+C:\Users\franc\Development\PracticeSol\PracticeSeven\bin\Debug\net8.0\PracticeSeven.pdb
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.dll
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\refint\PracticeSeven.dll
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.pdb
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\PracticeSeven.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeSeven\obj\Debug\net8.0\ref\PracticeSeven.dll

@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeThree\bin\Debug\net8.0\PracticeThree.exe
+C:\Users\franc\Development\PracticeSol\PracticeThree\bin\Debug\net8.0\PracticeThree.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeThree\bin\Debug\net8.0\PracticeThree.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeThree\bin\Debug\net8.0\PracticeThree.dll
+C:\Users\franc\Development\PracticeSol\PracticeThree\bin\Debug\net8.0\PracticeThree.pdb
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.dll
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\refint\PracticeThree.dll
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.pdb
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\PracticeThree.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeThree\obj\Debug\net8.0\ref\PracticeThree.dll

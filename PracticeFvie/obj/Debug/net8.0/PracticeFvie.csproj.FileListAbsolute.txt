@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeFvie\bin\Debug\net8.0\PracticeFvie.exe
+C:\Users\franc\Development\PracticeSol\PracticeFvie\bin\Debug\net8.0\PracticeFvie.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeFvie\bin\Debug\net8.0\PracticeFvie.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeFvie\bin\Debug\net8.0\PracticeFvie.dll
+C:\Users\franc\Development\PracticeSol\PracticeFvie\bin\Debug\net8.0\PracticeFvie.pdb
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.dll
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\refint\PracticeFvie.dll
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.pdb
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\PracticeFvie.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeFvie\obj\Debug\net8.0\ref\PracticeFvie.dll
