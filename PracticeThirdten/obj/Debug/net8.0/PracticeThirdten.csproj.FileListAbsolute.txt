@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\bin\Debug\net8.0\PracticeThirdten.exe
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\bin\Debug\net8.0\PracticeThirdten.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\bin\Debug\net8.0\PracticeThirdten.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\bin\Debug\net8.0\PracticeThirdten.dll
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\bin\Debug\net8.0\PracticeThirdten.pdb
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.dll
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\refint\PracticeThirdten.dll
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.pdb
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\PracticeThirdten.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeThirdten\obj\Debug\net8.0\ref\PracticeThirdten.dll

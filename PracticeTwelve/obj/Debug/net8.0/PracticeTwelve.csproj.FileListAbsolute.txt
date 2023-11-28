@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\bin\Debug\net8.0\PracticeTwelve.exe
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\bin\Debug\net8.0\PracticeTwelve.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\bin\Debug\net8.0\PracticeTwelve.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\bin\Debug\net8.0\PracticeTwelve.dll
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\bin\Debug\net8.0\PracticeTwelve.pdb
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.dll
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\refint\PracticeTwelve.dll
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.pdb
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\PracticeTwelve.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeTwelve\obj\Debug\net8.0\ref\PracticeTwelve.dll

@@ -1,0 +1,14 @@
+C:\Users\franc\Development\PracticeSol\PracticeTen\bin\Debug\net8.0\PracticeTen.exe
+C:\Users\franc\Development\PracticeSol\PracticeTen\bin\Debug\net8.0\PracticeTen.deps.json
+C:\Users\franc\Development\PracticeSol\PracticeTen\bin\Debug\net8.0\PracticeTen.runtimeconfig.json
+C:\Users\franc\Development\PracticeSol\PracticeTen\bin\Debug\net8.0\PracticeTen.dll
+C:\Users\franc\Development\PracticeSol\PracticeTen\bin\Debug\net8.0\PracticeTen.pdb
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.AssemblyInfoInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.AssemblyInfo.cs
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.csproj.CoreCompileInputs.cache
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.dll
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\refint\PracticeTen.dll
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.pdb
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\PracticeTen.genruntimeconfig.cache
+C:\Users\franc\Development\PracticeSol\PracticeTen\obj\Debug\net8.0\ref\PracticeTen.dll

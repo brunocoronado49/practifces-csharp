@@ -3,23 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{3515F9B9-9B0B-451A-9277-2FFDAD512482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{3515F9B9-9B0B-451A-9277-2FFDAD512482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTwo", "PracticeTwo\PracticeTwo.csproj", "{E9201BCA-BD1A-4EB4-8877-2FDD38ED54F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeTwo", "PracticeTwo\PracticeTwo.csproj", "{E9201BCA-BD1A-4EB4-8877-2FDD38ED54F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeThree", "PracticeThree\PracticeThree.csproj", "{BC3EE3FC-8EBC-40A3-9E9B-32A30634DD08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeThree", "PracticeThree\PracticeThree.csproj", "{BC3EE3FC-8EBC-40A3-9E9B-32A30634DD08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeFour", "PracticeFour\PracticeFour.csproj", "{F3459B88-5E60-4BB1-B48D-A84EAFE524C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeFour", "PracticeFour\PracticeFour.csproj", "{F3459B88-5E60-4BB1-B48D-A84EAFE524C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeFvie", "PracticeFvie\PracticeFvie.csproj", "{EB0FA1CF-1509-4F05-ABCF-4103A12A71C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeFvie", "PracticeFvie\PracticeFvie.csproj", "{EB0FA1CF-1509-4F05-ABCF-4103A12A71C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeSix", "PracticeSix\PracticeSix.csproj", "{167044DC-DB86-409D-94C4-69BC916A48CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeSix", "PracticeSix\PracticeSix.csproj", "{167044DC-DB86-409D-94C4-69BC916A48CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeSeven", "PracticeSeven\PracticeSeven.csproj", "{3C182EB2-591C-45E1-BB75-3A4575B8A764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeSeven", "PracticeSeven\PracticeSeven.csproj", "{3C182EB2-591C-45E1-BB75-3A4575B8A764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeEight", "PracticeEight\PracticeEight.csproj", "{06C3D183-BA23-46A9-9C9B-0705E3CAA1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeEight", "PracticeEight\PracticeEight.csproj", "{06C3D183-BA23-46A9-9C9B-0705E3CAA1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeNine", "PracticeNine\PracticeNine.csproj", "{AE793405-2C94-48A4-AF67-1D42D141832B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeNine", "PracticeNine\PracticeNine.csproj", "{AE793405-2C94-48A4-AF67-1D42D141832B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeTen", "PracticeTen\PracticeTen.csproj", "{795B9A7A-864A-4054-BA18-8B73DCB2DE04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeEleven", "PracticeEleven\PracticeEleven.csproj", "{6A7612BD-CED9-4476-A649-566D9D8BD461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeTwelve", "PracticeTwelve\PracticeTwelve.csproj", "{4F84E775-5000-40BB-94FE-69D392BC000C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeThirdten", "PracticeThirdten\PracticeThirdten.csproj", "{6D6C5280-8E9D-451C-8922-092891FE191D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{AE793405-2C94-48A4-AF67-1D42D141832B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE793405-2C94-48A4-AF67-1D42D141832B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE793405-2C94-48A4-AF67-1D42D141832B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795B9A7A-864A-4054-BA18-8B73DCB2DE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795B9A7A-864A-4054-BA18-8B73DCB2DE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795B9A7A-864A-4054-BA18-8B73DCB2DE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795B9A7A-864A-4054-BA18-8B73DCB2DE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7612BD-CED9-4476-A649-566D9D8BD461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7612BD-CED9-4476-A649-566D9D8BD461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7612BD-CED9-4476-A649-566D9D8BD461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7612BD-CED9-4476-A649-566D9D8BD461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F84E775-5000-40BB-94FE-69D392BC000C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F84E775-5000-40BB-94FE-69D392BC000C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F84E775-5000-40BB-94FE-69D392BC000C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F84E775-5000-40BB-94FE-69D392BC000C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6C5280-8E9D-451C-8922-092891FE191D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6C5280-8E9D-451C-8922-092891FE191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6C5280-8E9D-451C-8922-092891FE191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6C5280-8E9D-451C-8922-092891FE191D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
